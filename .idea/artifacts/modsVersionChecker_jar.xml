@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modsVersionChecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/modsVersionChecker_jar</output-path>
+    <root id="archive" name="modsVersionChecker.jar">
+      <element id="module-output" name="modsVersionChecker" />
+    </root>
+  </artifact>
+</component>
